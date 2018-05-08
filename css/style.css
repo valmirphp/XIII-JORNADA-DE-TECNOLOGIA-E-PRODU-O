@@ -357,6 +357,9 @@ textarea.input {
   height: 100vh;
   position: relative;
 }
+#home img.capa  {
+  margin:0 auto;
+}
 
 #home .home-wrapper {
   position: absolute;
@@ -390,7 +393,9 @@ textarea.input {
 /*=========================================================
 	ABOUT
 ===========================================================*/
-
+#about {
+  margin-top: 45px;
+}
 #numbers {
   margin-top: 60px;
 }
